@@ -1,0 +1,3 @@
+# Simple playground of my own "stale GitHub-Application"
+
+bla bla....

@@ -16,3 +16,4 @@ markComment: >
   activity in 30 days. It will be closed if no further activity occurs in 10 days.
 # Comment to post when closing a stale issue. Set to `false` to disable
 closeComment: false
+closedLabel: "closedByBot"
